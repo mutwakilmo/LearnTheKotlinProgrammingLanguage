@@ -1,6 +1,7 @@
 # Learn The Kotlin Programming Language
 
-Learn the Kotlin language: a 30-minute crash course on Kotlin basics developed by Google.
+Learn the Kotlin language: 
+a 30-minute crash course on Kotlin basics developed by Google.
 
 
 
